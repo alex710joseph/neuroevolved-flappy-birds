@@ -1,6 +1,7 @@
 # neuroevolved-flappy-birds
 Genetic Algorithm is used to win the game of Flappy Birds.
 
+try it youself at https://alex710joseph.github.io/neuroevolved-flappy-birds/
 
 ### Overview
 - A simple implementation of the popular Flappy Birds game was created
